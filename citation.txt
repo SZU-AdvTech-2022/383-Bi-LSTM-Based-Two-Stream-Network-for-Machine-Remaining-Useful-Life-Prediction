@@ -1,0 +1,8 @@
+@article{REPO-384,
+    author = "Jin, Ruibing and Chen, Zhenghua and Wu, Keyu and Wu, Min and Li, Xiaoli and Yan, Ruqiang",
+    journal = "IEEE Transactions on Instrumentation and Measurement",
+    pages = "1-10",
+    title = "{Bi-LSTM-Based Two-Stream Network for Machine Remaining Useful Life Prediction}",
+    volume = "71",
+    year = "2022"
+}
