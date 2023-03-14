@@ -1,4 +1,4 @@
-@article{REPO-384,
+@article{REPO-383,
     author = "Jin, Ruibing and Chen, Zhenghua and Wu, Keyu and Wu, Min and Li, Xiaoli and Yan, Ruqiang",
     journal = "IEEE Transactions on Instrumentation and Measurement",
     pages = "1-10",
